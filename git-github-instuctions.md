@@ -19,7 +19,7 @@ To get a token:
 12. copy the newly added token
 13. using the above command line instruction paste the new token in to the <token_here> portion of the line
 14. put in your user_name and repo_name into the above command line instruction
-    example: git clone https://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@github.com/John-Hawker/CS339R-Fall-2023.git
+    example: git clone https://ghp_WfQgVwXYF4sL4Echyqh6iIle3SjdkG242N4v@github.com/John-Hawker/CS339R-Fall-2023.git
 15. copy the instruction, open the terminal, put the copied instruction in the terminal command line, and press enter
 
 To check the status of your local copy of your github repository
