@@ -1,3 +1,6 @@
+github cheat sheet can be found at:
+https://education.github.com/git-cheat-sheet-education.pdf
+
 use the following in the command line to use an authentication token from git hub to allow push and pull from the repository.
 git clone https://<token_here>@github.com/<user_name>/<repo_name>.git
 
